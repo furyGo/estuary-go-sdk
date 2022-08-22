@@ -1,4 +1,4 @@
-module github.com/furyGO/estuary-go-sdk
+module github.com/furyGo/estuary-go-sdk
 
 go 1.13
 
